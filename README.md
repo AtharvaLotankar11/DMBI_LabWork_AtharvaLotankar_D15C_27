@@ -26,7 +26,7 @@ Each experiment explores a fundamental data mining concept — from cleaning mes
 
 Each PDF file includes **objective → methodology → implementation → results → conclusion**.  
 
-![Machine Learning GIF](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
+![Machine Learning GIF](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lzn_x_KHv3Ebhqj-.gif)
 
 ---
 
@@ -97,6 +97,6 @@ python app.py
 - All datasets and scripts included for **easy reproducibility** and **experimentation**.  
 - Built with ❤️ for data, intelligence, and learning.  
 
-![Analytics GIF](https://media.giphy.com/media/3og0IPMeW6lFd6C0Pu/giphy.gif)
+![Analytics GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAzdnltMnNnbDM1dTcycmlxZjVzaHU2dnphb283OHZwMXR4eHphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 ---
