@@ -1,102 +1,241 @@
-# 🚀 DMBI Lab Work – Atharva Lotankar (D15C‑27)
+<div align="center">
 
-Welcome to my **Data Mining & Business Intelligence (DMBI)** Lab Repository!  
-This space contains all **experiments, assignments, and a mini‑project** completed during the course — demonstrating how **data mining meets real‑world intelligence** through machine learning and visualization.  
+# 🚀 DMBI Lab Work
 
-🎯 *Aim:* Gain hands‑on experience with data preprocessing, predictive modeling, and insightful BI visualization.  
+### Data Mining & Business Intelligence
 
-![Data Science GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+**Atharva Lotankar** | D15C-27
 
----
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Flask](https://img.shields.io/badge/Flask-Web-black.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-## 📁 Repository Overview
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Data Science Animation"/>
 
-### 🔬 Experiments (1–10)
-Each experiment explores a fundamental data mining concept — from cleaning messy data to building predictive models:
+### 🎯 Mission
 
-- 🧹 **Data Preprocessing:** Missing values, normalization, standardization  
-- 🌳 **Classification:** Decision Tree, K‑Nearest Neighbors  
-- 📈 **Regression:** Simple & Multiple Regression Analysis  
-- 🔗 **Association Rules:** Apriori Algorithm  
-- 🔄 **Clustering:** K‑Means, Hierarchical Clustering  
-- 🧭 **Dimensionality Reduction:** PCA, Feature Selection  
-- 📊 **Model Evaluation:** Confusion Matrix, Precision, Recall, F1‑Score  
-- 🌈 **Visualization & Insights:** Charts, plots, and BI dashboards  
-- 🧠 **Ensemble & Advanced ML:** Bagging, Boosting, Random Forest, Neural Networks  
-
-Each PDF file includes **objective → methodology → implementation → results → conclusion**.  
-
-![Machine Learning GIF](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lzn_x_KHv3Ebhqj-.gif)
+_Transforming raw data into actionable intelligence through hands-on machine learning, visualization, and predictive analytics_
 
 ---
 
-### 📚 Assignments
+</div>
 
-- **Assignment 1 (M1–M6):** Practical application of mining techniques on real datasets — divided into modules covering preprocessing, classification, regression, and clustering.  
-- **Assignment 2 – Case Study:** End‑to‑end analysis revealing data patterns, insights, and decision recommendations.  
+## 📁 Repository Structure
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Experiments (1-10)
+
+<details open>
+<summary><b>Click to explore all experiments</b></summary>
+
+| #   | Topic                        | Key Concepts                                   |
+| --- | ---------------------------- | ---------------------------------------------- |
+| 1️⃣  | **Data Preprocessing**       | Missing values, normalization, standardization |
+| 2️⃣  | **Classification**           | Decision Tree, K-Nearest Neighbors             |
+| 3️⃣  | **Regression Analysis**      | Simple & Multiple Regression                   |
+| 4️⃣  | **Association Rules**        | Apriori Algorithm                              |
+| 5️⃣  | **Clustering**               | K-Means, Hierarchical Clustering               |
+| 6️⃣  | **Dimensionality Reduction** | PCA, Feature Selection                         |
+| 7️⃣  | **Model Evaluation**         | Confusion Matrix, Metrics                      |
+| 8️⃣  | **Data Visualization**       | Charts, plots, BI dashboards                   |
+| 9️⃣  | **Ensemble Methods**         | Bagging, Boosting, Random Forest               |
+| 🔟  | **Neural Networks**          | Deep Learning fundamentals                     |
+
+</details>
+
+> 📄 Each experiment includes: **Objective → Methodology → Implementation → Results → Conclusion**
+
+</td>
+<td width="50%">
+
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lzn_x_KHv3Ebhqj-.gif" width="100%" alt="Machine Learning"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💡 Mini Project – *Student Performance Predictor*
+## 📚 Assignments
 
-🎓 Predict how students perform in **Math, Reading, and Writing** using AI!
+<table>
+<tr>
+<td>
 
-**Dataset:** `StudentsPerformance.csv`  
-**Features:** Gender, parental education, lunch type, test prep, and subject scores  
+### 📝 Assignment 1 (Modules 1-6)
 
-**Models Used:**  
-🌲 Decision Tree | 🌳 Random Forest | 🧠 Neural Network  
+Practical application of mining techniques on real datasets
 
-**Highlights:**
-1. Interactive Flask web app (`app.py`)  
-2. Multi‑model prediction comparison  
-3. Personalized AI recommendations for students  
-4. Ensemble prediction improvements  
-5. Clear visual insights  
+**Coverage:**
 
-![Student Prediction GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+- ✅ Data Preprocessing
+- ✅ Classification Algorithms
+- ✅ Regression Models
+- ✅ Clustering Techniques
+
+</td>
+<td>
+
+### 📊 Assignment 2 - Case Study
+
+End-to-end data analysis project
+
+**Deliverables:**
+
+- 🔍 Pattern Discovery
+- 💡 Actionable Insights
+- 📈 Decision Recommendations
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Technologies & Tools
+## 💡 Mini Project: Student Performance Predictor
 
-- **Language:** Python 3.x  
-- **Libraries:** Pandas, NumPy, Scikit‑learn, Matplotlib, Seaborn, Flask  
-- **Visualization:** Bar charts, scatter plots, correlation heatmaps  
-- **Docs:** Experiments, Assignments & Project reports (PDFs)  
+<div align="center">
+
+### 🎓 AI-Powered Academic Performance Prediction
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" alt="Student Prediction"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Dataset & Features
+
+**Source:** `StudentsPerformance.csv`
+
+**Input Features:**
+
+- 👤 Gender
+- 🎓 Parental Education Level
+- 🍽️ Lunch Type
+- 📚 Test Preparation Course
+- 📝 Subject Scores
+
+**Target Variables:**
+
+- 📐 Math Score
+- 📖 Reading Score
+- ✍️ Writing Score
+
+</td>
+<td width="50%">
+
+### 🤖 ML Models Implemented
+
+```
+🌲 Decision Tree Classifier
+🌳 Random Forest Ensemble
+🧠 Neural Network (Deep Learning)
+```
+
+### ✨ Key Features
+
+- 🌐 Interactive Flask Web Application
+- 📊 Multi-Model Comparison Dashboard
+- 🎯 Personalized Student Recommendations
+- 📈 Ensemble Prediction Aggregation
+- 📉 Visual Performance Analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧭 How to Run
+## 🛠️ Tech Stack
 
-1. 🕹️ Clone this repo  
+<div align="center">
+
+| Category             | Technologies                                                                                                                                                                                         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Language**         | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)                                                                                              |
+| **Data Processing**  | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)                                                                               |
+| **Visualization**    | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)                                            |
+| **Web Framework**    | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)                                                                                                     |
+| **Documentation**    | ![PDF](https://img.shields.io/badge/PDF-Reports-EC1C24?style=flat-square&logo=adobe&logoColor=white)                                                                                                 |
+
+</div>
+
+---
+
+## 🚀 Quick Start Guide
+
+<table>
+<tr>
+<td width="60%">
+
+### Installation Steps
+
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/AtharvaLotankar11/DMBI_LabWork_AtharvaLotankar_D15C_27.git
-```
 
-2. ⚡ Install dependencies  
-```bash
+# 2️⃣ Navigate to project directory
+cd DMBI_LabWork_AtharvaLotankar_D15C_27
+
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
-```
 
-3. 🚀 Launch the mini‑project app  
-```bash
+# 4️⃣ Launch the mini-project web app
 python app.py
 ```
 
-4. 📂 Explore PDFs in `Experiments/` and `Assignments/` for deeper insights.  
+### 📂 Explore Documentation
 
-![Python Coding GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+- 📁 `DMBI Experiment 1-10.pdf` - Detailed experiment reports
+- 📁 `DMBI Assignment 1-2.pdf` - Assignment solutions
+- 📁 `DMBI Mini Project.pdf` - Complete project documentation
+
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Python Coding"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📝 Notes & Insights
+## 📝 Key Highlights
 
-- Each experiment is **self‑contained** with complete methodology and analysis.  
-- The mini‑project reflects **end‑to‑end BI workflow** — from raw data to actionable insight.  
-- All datasets and scripts included for **easy reproducibility** and **experimentation**.  
-- Built with ❤️ for data, intelligence, and learning.  
+<div align="center">
 
-![Analytics GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAzdnltMnNnbDM1dTcycmlxZjVzaHU2dnphb283OHZwMXR4eHphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
+```
+✨ Self-contained experiments with complete methodology
+🔄 End-to-end BI workflow from raw data to insights
+🔬 Easy reproducibility with included datasets & scripts
+❤️ Built with passion for data, intelligence, and learning
+```
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAzdnltMnNnbDM1dTcycmlxZjVzaHU2dnphb283OHZwMXR4eHphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Analytics"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+### 📫 Connect & Collaborate
+
+**Made with 💙 by Atharva Lotankar**
+
+_Data Mining & Business Intelligence | D15C-27_
+
+---
+
+⭐ **Star this repo if you find it helpful!** ⭐
+
+</div>
